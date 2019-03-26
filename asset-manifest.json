@@ -1,11 +1,11 @@
 {
-  "main.js": "/vnscriptkid/React-Testing-Codebase.git/static/js/main.677018a7.chunk.js",
-  "main.js.map": "/vnscriptkid/React-Testing-Codebase.git/static/js/main.677018a7.chunk.js.map",
-  "runtime~main.js": "/vnscriptkid/React-Testing-Codebase.git/static/js/runtime~main.4c7d3904.js",
-  "runtime~main.js.map": "/vnscriptkid/React-Testing-Codebase.git/static/js/runtime~main.4c7d3904.js.map",
-  "static/js/2.c654986a.chunk.js": "/vnscriptkid/React-Testing-Codebase.git/static/js/2.c654986a.chunk.js",
-  "static/js/2.c654986a.chunk.js.map": "/vnscriptkid/React-Testing-Codebase.git/static/js/2.c654986a.chunk.js.map",
-  "index.html": "/vnscriptkid/React-Testing-Codebase.git/index.html",
-  "precache-manifest.855754f97b581398693a88d47a8f4b3f.js": "/vnscriptkid/React-Testing-Codebase.git/precache-manifest.855754f97b581398693a88d47a8f4b3f.js",
-  "service-worker.js": "/vnscriptkid/React-Testing-Codebase.git/service-worker.js"
+  "main.js": "/vnscriptkid/React-Testing-Codebase/static/js/main.677018a7.chunk.js",
+  "main.js.map": "/vnscriptkid/React-Testing-Codebase/static/js/main.677018a7.chunk.js.map",
+  "runtime~main.js": "/vnscriptkid/React-Testing-Codebase/static/js/runtime~main.c4c349e1.js",
+  "runtime~main.js.map": "/vnscriptkid/React-Testing-Codebase/static/js/runtime~main.c4c349e1.js.map",
+  "static/js/2.c654986a.chunk.js": "/vnscriptkid/React-Testing-Codebase/static/js/2.c654986a.chunk.js",
+  "static/js/2.c654986a.chunk.js.map": "/vnscriptkid/React-Testing-Codebase/static/js/2.c654986a.chunk.js.map",
+  "index.html": "/vnscriptkid/React-Testing-Codebase/index.html",
+  "precache-manifest.9c779bfa7b85883c7ea6df6c15ea1d2d.js": "/vnscriptkid/React-Testing-Codebase/precache-manifest.9c779bfa7b85883c7ea6df6c15ea1d2d.js",
+  "service-worker.js": "/vnscriptkid/React-Testing-Codebase/service-worker.js"
 }

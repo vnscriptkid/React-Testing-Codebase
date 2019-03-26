@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vnscriptkid/React-Testing-Codebase.git/precache-manifest.855754f97b581398693a88d47a8f4b3f.js"
+  "/vnscriptkid/React-Testing-Codebase/precache-manifest.9c779bfa7b85883c7ea6df6c15ea1d2d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/vnscriptkid/React-Testing-Codebase.git/index.html", {
+workbox.routing.registerNavigationRoute("/vnscriptkid/React-Testing-Codebase/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
